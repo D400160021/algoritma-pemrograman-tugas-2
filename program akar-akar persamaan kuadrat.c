@@ -42,7 +42,7 @@ else if (d==0)
 
 x=-b/2*a;
 
-printf("Memiliki satu penyeleseaian %.2f \n", x);
+printf("Memiliki satu penyelesaian %.2f \n", x);
 
 }
 
